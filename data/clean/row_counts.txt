@@ -1,0 +1,6 @@
+neighbourhoods: 140
+listings_raw: 22,050
+listing_amenity_rows: 795,457
+listings_clean: 22,050
+calendar_clean: 1,965,372
+reviews_clean: 728,363
