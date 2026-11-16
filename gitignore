@@ -1,0 +1,15 @@
+# Data files: download via README links or the shared Drive folder
+data/raw/*
+data/clean/*
+!data/clean/row_counts.txt
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+*.csv.gz
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
